@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-bla  bla bla vla Adding more text
+bla  bla bla vla Adding more text, then more changes from my features branch too
 
 ## Introudction
 
