@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 ## another line
 
 Deployment asd ñajsdf ñasdj fañsd fasdofh asdofhas dohi
+
+## Adding CopyRigth Notice
+
+asdfhasdkhjas da shdla hlkajs dhflaksd fhlaksdf halskdf 
